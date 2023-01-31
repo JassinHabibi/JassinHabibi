@@ -1,0 +1,16 @@
+section{
+    padding: 100px 25px;  
+    display: flex; 
+    justify-content: center;
+    align-items: center;
+    gap: 50px;
+    background-color:#191c22;
+    flex-wrap: wrap;    
+}
+.more_about_me{
+font-size: large;
+justify-content: flex-start;
+color: var(--secondary-text-color)
+
+
+}
